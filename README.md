@@ -4,9 +4,6 @@ Projeto em Node fazendo CRUD com Mongo
 Segue o postman da APi:
 
 
-<a href=“https://www.postman.com/restless-desert-421356/workspace/projeto-node/documentation/17639626-f9f3386a-e06b-45b5-b5d8-c194bf769010
-“>Postman</a>
-
 [Postman](https://www.postman.com/restless-desert-421356/workspace/projeto-node/documentation/17639626-f9f3386a-e06b-45b5-b5d8-c194bf769010)
 
 
