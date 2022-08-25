@@ -10,6 +10,4 @@ Segue o postman da APi:
 
 Basta acessar esse link, clicar na pasta aulas de micro - tres pontinhos, depois clicar em export e baixar.
 
-No seu postman basta clicar em import e jogar essa collection, ou simplesmente executar via web com a API rodando.
-
-Para isso, precisará logar no postman :)
+No seu postman basta clicar em import e jogar essa collection. :)
