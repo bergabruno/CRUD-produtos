@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
 
-mongoose.connect("mongodb+srv://admin:admin@cluster0.cukr2.mongodb.net/estoque-product");
+mongoose.connect("mongodb+srv://:@cluster0.cukr2.mongodb.net/estoque-product");
 
 app.use(express.json());
 
