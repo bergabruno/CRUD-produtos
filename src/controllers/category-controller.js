@@ -12,7 +12,7 @@ exports.post = async(req, res, next) =>{
         console.log(category);
         res.status(201).send({message: `Criado com sucesso! id = ${category._id}`});
     }catch(erro){
-        res.status(400).send({message: "erro ao cadastrar produto"});
+        res.status(400).send({message: "erro ao cadastrar categoria"});
     }
 }
 
@@ -22,7 +22,7 @@ exports.put = async(req,res,next) => {
     const body = req.body;
 
     await repository.put(id, body);
-    res.status(200).send({message: "produto alterado com sucesso"})
+    res.status(200).send({message: "categoria alterado com sucesso"})
 }
 
 exports.getById = async(req,res,next) => {
