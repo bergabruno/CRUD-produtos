@@ -11,3 +11,13 @@ Segue o postman da APi:
 Basta acessar esse link, clicar na pasta aulas de micro - tres pontinhos, depois clicar em export e baixar.
 
 No seu postman basta clicar em import e jogar essa collection. :)
+
+
+ENDPOINTS: .../category 
+           .../products
+           
+           
+REGRAS DE NEGOCIO:
+
+PARA CADASTRAR UM PRODUTO, PRECISARA DE UM ID DE CATEGORIA ATRELADO A ELE, SOMENTE ISSO, CASO CONTRARIO NAO SERA POSSIVEL CADASTRAR PRODUTO.
+
